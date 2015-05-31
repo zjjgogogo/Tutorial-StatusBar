@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="activity_bg_color">#cecece</color>
+    <color name="theme_color_default">#000000</color>
+    <color name="theme_color1">#2db2d2</color>
+    <color name="theme_color2">#fb7c6b</color>
+
+</resources>

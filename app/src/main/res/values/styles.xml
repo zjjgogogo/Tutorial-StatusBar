@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="windowActionBar">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@color/activity_bg_color</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="colorPrimary">@color/theme_color_default</item>
+        <item name="colorPrimaryDark">@color/theme_color_default</item>
+
+    </style>
+
+
+    <style name="AppTheme1" parent="AppTheme">
+        <!-- Toolbar 背景色 -->
+        <!-- 状态栏色值 theme_primarydark_light_color theme_light_color -->
+        <item name="colorPrimary">@color/theme_color1</item>
+        <item name="colorPrimaryDark">@color/theme_color1</item>
+    </style>
+
+    <style name="AppTheme2" parent="AppTheme">
+        <!-- Toolbar 背景色 -->
+        <!-- 状态栏色值 theme_primarydark_light_color theme_light_color -->
+        <item name="colorPrimary">@color/theme_color2</item>
+        <item name="colorPrimaryDark">@color/theme_color2</item>
+    </style>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tutorial-StatusBar</string>
+    <string name="title_activity_select_type">SelectTypeActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_theme1">Theme1Activity</string>
+    <string name="title_activity_theme2">Theme2Activity</string>
+
+    <string name="type_theme1">StatusBar_Theme1</string>
+    <string name="type_theme2">StatusBar_Theme2</string>
+
+    <string name="tutorial_description">This Tutorial show you how to use supportv7 appcompat to change StatusBar and ActionBar backgroud color , in  equal to or more than API21</string>
+    <string name="tutorial_detail_description">Details : see values/styles.xml</string>
+</resources>
